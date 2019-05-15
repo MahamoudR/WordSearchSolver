@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#95bf47</color>
+    <color name="colorPrimaryDark">#64943e</color>
+    <color name="colorAccent">#5C6AC3</color>
+    <color name="selTextBgColor">#B3EE53</color>
+
+    <color name="gray">#aa808080</color>
+</resources>
